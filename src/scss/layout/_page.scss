@@ -1,0 +1,6 @@
+.page {
+  @include flex;
+  @include size(100%);
+  padding: 1.42rem;
+  background: #df0d0d;
+}
